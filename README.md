@@ -10,7 +10,7 @@ sudo apt install git
 sudo apt install python3-pip
 ```
 ```
-git clone https://github.com/0xmoei/lava
+git clone https://github.com/sahebdel7/lavaa
 ```
 ```
 cd lava
