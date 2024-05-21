@@ -13,7 +13,7 @@ sudo apt install python3-pip
 git clone https://github.com/sahebdel7/lavaa
 ```
 ```
-cd lava
+cd lavaa
 ```
 ## Change ETH RPC & (Wallet: optional)
 ```
